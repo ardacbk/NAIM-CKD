@@ -1,0 +1,25 @@
+,değişken,tür,değerler,eksik_n,eksik_%,eksik_%_CKD,eksik_%_notCKD,CKD_tipik,notCKD_tipik
+age,Yaş (yıl),sayısal,2–90,9,2.2,3.2,0.7,medyan 59,medyan 46
+bp,Kan basıncı (mm/Hg),sayısal,50–180,12,3.0,4.0,1.3,medyan 80,medyan 70
+sg,İdrar özgül ağırlığı,kategorik,1.005 / 1.010 / 1.015 / 1.020 / 1.025,47,11.8,16.8,3.3,medyan 1.015,medyan 1.02
+al,İdrarda albümin,kategorik,0 / 1 / 2 / 3 / 4 / 5,46,11.5,16.4,3.3,medyan 2,medyan 0
+su,İdrarda şeker,kategorik,0 / 1 / 2 / 3 / 4 / 5,49,12.2,17.6,3.3,medyan 0,medyan 0
+rbc,İdrarda kırmızı kan hücresi,kategorik,normal / abnormal,152,38.0,57.2,6.0,%44 abnormal,%0 abnormal
+pc,İrin hücresi,kategorik,normal / abnormal,65,16.2,22.4,6.0,%39 abnormal,%0 abnormal
+pcc,İrin hücresi kümeleri,kategorik,notpresent / present,4,1.0,0.0,2.7,%17 present,%0 present
+ba,Bakteri,kategorik,notpresent / present,4,1.0,0.0,2.7,%9 present,%0 present
+bgr,Rastgele kan şekeri (mg/dL),sayısal,22–490,44,11.0,15.2,4.0,medyan 143.5,medyan 107.5
+bu,Kan üresi (mg/dL),sayısal,1.5–391,19,4.8,5.2,4.0,medyan 53,medyan 33
+sc,Serum kreatinin (mg/dL),sayısal,0.4–76,17,4.2,4.8,3.3,medyan 2.25,medyan 0.9
+sod,Sodyum (mEq/L),sayısal,4.5–163,87,21.8,32.8,3.3,medyan 136,medyan 141
+pot,Potasyum (mEq/L),sayısal,2.5–47,88,22.0,33.2,3.3,medyan 4.3,medyan 4.5
+hemo,Hemoglobin (g/dL),sayısal,3.1–17.8,52,13.0,18.4,4.0,medyan 10.9,medyan 15
+pcv,Hematokrit (%),sayısal,9–54,71,17.8,26.8,2.7,medyan 33,medyan 46
+wbcc,Beyaz küre (hücre/mm³),sayısal,2200–26400,106,26.5,39.6,4.7,medyan 8800,medyan 7500
+rbcc,Kırmızı küre (milyon/mm³),sayısal,2.1–8,131,32.8,49.6,4.7,medyan 3.9,medyan 5.3
+htn,Hipertansiyon,kategorik,no / yes,2,0.5,0.0,1.3,%59 yes,%0 yes
+dm,Diyabet,kategorik,no / yes,2,0.5,0.0,1.3,%55 yes,%0 yes
+cad,Koroner arter hastalığı,kategorik,no / yes,2,0.5,0.0,1.3,%14 yes,%0 yes
+appet,İştah,kategorik,good / poor,1,0.2,0.0,0.7,%33 poor,%0 poor
+pe,Ayak bileği ödemi,kategorik,no / yes,1,0.2,0.0,0.7,%30 yes,%0 yes
+ane,Anemi,kategorik,no / yes,1,0.2,0.0,0.7,%24 yes,%0 yes
