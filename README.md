@@ -9,7 +9,6 @@
 | `naim_ckd.ipynb` | Bütün deneyler: veri analizi, sabit bölme, eksiklik maskeleri, 5 model, tanı deneyleri |
 | `data/` | Veri dosyası `chronic_kidney_disease_full.arff` |
 | `outputs/` | Defterin kaydettiği çıktılar: bölme, eksiklik maskeleri, tahminler, eğitim geçmişleri, sonuç tabloları |
-| `NAIM_CKD_Rapor.pdf` | Rapor |
 | `requirements.txt` | Python bağımlılıkları |
 
 ## Bağımlılıklar
