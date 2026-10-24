@@ -1,6 +1,6 @@
 # NAIM ile Eksik Klinik Verilerde CKD Sınıflandırması
 
-[NAIM](https://doi.org/10.1016/j.aiopen.2026.02.005) (Not Another Imputation Method) modeli [UCI Chronic Kidney Disease](https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease) verisine uygulanmış ve eksik değerleri medyan / en sık değerle doldurulan SVM, KNN ve Random Forest ile karşılaştırılmıştır. Yöntem, deney düzeni ve sonuçlar `NAIM_CKD_Rapor.pdf` dosyasındadır.
+[NAIM](https://doi.org/10.1016/j.aiopen.2026.02.005) (Not Another Imputation Method) modeli [UCI Chronic Kidney Disease](https://archive.ics.uci.edu/dataset/336/chronic+kidney+disease) verisine uygulanmış ve eksik değerleri medyan / en sık değerle doldurulan SVM, KNN ve Random Forest ile karşılaştırılmıştır.
 
 ## Dosyalar
 
